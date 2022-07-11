@@ -1,0 +1,139 @@
+#title
+{
+  background-color: pink;
+
+}
+body
+{
+  font-family: Montserrat;
+    font-weight: 700;
+}
+#cont
+{
+  padding-left: 50px;
+  padding-right: 100px;
+  padding-bottom: 5%;
+}
+h1
+{
+
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 700;
+}
+h3
+{
+
+  font-size: 2rem;
+  line-height: 1.5;
+  font-weight: 700;
+}
+
+.navbar-brand{
+  font-size: 2rem;
+  font-weight: 700;
+}
+.nav-link
+{
+
+  font-size: 1rem;
+  font-weight: 700;
+}
+.navbar
+{
+
+}
+.btn
+{
+  margin: 3px 3px 3px 3px;
+}
+.img
+{
+  width:30%;
+  transform: rotate(25deg);
+  position: absolute;
+  padding-top: 20px;
+}
+.row2
+{
+  margin: 20px 20px 20px 20px;
+}
+.col2
+{
+  text-align: center;
+}
+.icon
+{
+  color: #ef8172;
+}
+.icon:hover
+{
+  color: pink;
+}
+h2
+{
+  font-weight: 700;
+}
+#testimonials
+{
+  padding: 7% 15px;
+  text-align: center;
+  background-color:pink;
+}
+.imagetest
+{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+#press
+{
+  background-color: pink;
+  text-align: center;
+  padding-bottom: 4%;
+}
+.pressimg
+{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+#features
+{padding: 7% 15%;
+  position: relative;
+  background-color: white;
+
+}
+#cta
+{
+  background-color: #E75480;
+  text-align: center;;
+  font-family: Montserrat;
+  padding: 110px 110px;
+  color: white;
+
+
+}
+#footer{
+  padding: 5% 15%;
+  text-align: center;
+}
+.icon
+{
+    padding: 2% 1%;
+}
+@media(max-width:1028px)
+{
+  #title{
+    text-align: center;
+  }
+  .img
+  {
+    position: static;
+    transform: rotate(0);
+  }
+}
